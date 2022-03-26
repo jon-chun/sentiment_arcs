@@ -136,7 +136,7 @@ From another perspective, SentimentArcs can be viewed as an end-to-end pipeline 
 Concretely, Sentiment Arcs consists of a series of software modules embodied as Jupyter notebooks and supporting libraries designed to work on Google's free Colab service. Notebooks are executed in sequence reflecting different steps in the pipeline from text cleaning to sentiment time series analysis. Despite some shortcomings, Google Colab offers the lowest technical barrier for the widest range of non-technical Domain Experts as well as powerful-GPU backed Jupyter notebooks required for the most powerful state-of-the-art models in our ensemble. SentimentArc models/notebooks include:
 
 * Text preprocessing (cleaning, advanced sentence segmentation, custom stopword sets, etc)
-* An ensemble of over 3 dozen Sentiment Analysis Model including a diverse representation of major families:
+* An ensemble of over 3 dozen Sentiment Analysis Model including a diverse representation of major families (including the most popular sentiment analysis libraries and models from both R and Python as well as some AutoML techniques):
 
 <blockquote>
 <ul>
