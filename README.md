@@ -100,7 +100,7 @@
     <!--- width="2048" height="1018"> --->
   </a>
   <a href="https://github.com/jon-chun/sentiment_arcs">
-    <img src="graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs Smoothed Peaks To The Lighthouse by Virginia Woolf"> 
+    <img src="images/graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs Smoothed Peaks To The Lighthouse by Virginia Woolf"> 
     <!---  width="2048" height="1018"> --->
   </a>
 <div>
