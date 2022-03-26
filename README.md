@@ -138,6 +138,7 @@ Concretely, Sentiment Arcs consists of a series of software modules embodied as 
 * Text preprocessing (cleaning, advanced sentence segmentation, custom stopword sets, etc)
 * An ensemble of over 3 dozen Sentiment Analysis Model including a diverse representation of major families:
 
+<blockquote>
 <ul>
 <li> Lexical
 <li> Heuristics
@@ -145,6 +146,7 @@ Concretely, Sentiment Arcs consists of a series of software modules embodied as 
 <li> Deep Neural Networks
 <li> State of the Art Transformer Models
 </ul>
+</blockquote>
 
 * Novel Time Series Synthesis and Data Augmentation for NLP Sentiment Analysis Time Series
 * Novel Peak Detection Algorithms customized for NLP Sentiment Analysis Time Series
