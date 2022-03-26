@@ -90,9 +90,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+<!---
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+--->
 
 <div align="center">
   <a href="https://github.com/jon-chun/sentiment_arcs">
