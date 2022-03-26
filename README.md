@@ -103,7 +103,7 @@
     <img src="images/graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs Smoothed Peaks To The Lighthouse by Virginia Woolf"> 
     <!---  width="2048" height="1018"> --->
   </a>
-<div>
+</div>
 
 Welcome!
 
@@ -139,7 +139,7 @@ Sentiment Arcs consists of a series of modules embodied in Jupyter notebooks dev
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+<!---
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -154,7 +154,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+--->
 
 
 <!-- GETTING STARTED -->
