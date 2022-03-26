@@ -106,7 +106,7 @@
   </a>
   <br>
   <a href="https://github.com/jon-chun/sentiment_arcs">
-    <img src="images/graph_sentiment_arc_lowess_mproust_guermanteswayg" alt="Sentiment Arcs LOWESS Smoothed Peaks Guermantes Way by Marcel Proust"> 
+    <img src="images/graph_sentiment_arc_lowess_mproust_guermanteswayg.png" alt="Sentiment Arcs LOWESS Smoothed Peaks Guermantes Way by Marcel Proust"> 
     <!---  width="2048" height="1018"> --->
   </a>
   <br>
