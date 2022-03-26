@@ -36,22 +36,26 @@
 <br />
 <div align="center">
   <a href="https://github.com/jon-chun/sentiment_arcs">
-    <img src="images/sentiment_arcs_logo.jpg" alt="Sentiment Arcs Logo" width="80" height="80">
+    <img src="images/sentiment_arcs_logo.jpg" alt="Sentiment Arcs Logo" width="256" height="256">
   </a>
 
   <h3 align="center">Sentiment Arcs - Emotion in Texts</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An end-to-end pipeline to detect, extract, process and anlayze sentiment analysis time series in long text(s).
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Quick Video Overview</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://www.cambridge.org/core/what-we-publish/elements/cambridge-elements-series">University of Cambridge Press Elements Textbook by Katherine Elkins</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/jon-chun/sentiment_arcs/issues">Report a Bug or Request a Feature</a>
+    ·
+    More Research by <a href="https://arxiv.org/abs/2110.09454">Jon Chun</a> and <a href="https://kenyon.academia.edu/KatherineElkins">Katherine Elkins</a>
+    ·
+    <a href="https://github.com/jon-chun/sentiment_arcs/affectiveai_links">References on Sentiment Analysis, AffectiveAI and Related Topics</a>
   </p>
 </div>
 
@@ -90,16 +94,28 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Welcome!
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+SentimentArcs is a methodlogy and software framework for analyzing narrative in text. Virtually all long text contains narrative elements...(TODO: Insert excerpts from Paper Abstract/Intro Sections here).
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+SentimentArcs is an end-to-end pipeline to detect, extract, preprocess and analyze sentiment in any corpus of long-form texts. This includes both individual long-form texts as well as corpora compiled from individually time sequenced smaller texts like tweets or financial reports. 
 
-Use the `BLANK_README.md` to get started.
+* Novels
+* Financial Texts
+* Social Media
+
+Sentiment Arcs consists of a series of modules embodied in Jupyter notebooks developed to work on Google's free Colab service. These modules include:
+
+* Text preprocessing (cleaning, advanced sentence segmentation, custom stopword sets, etc)
+* Sentiment Analysis
+* Novel Time Series Synthesis and Data Augmentation for NLP Sentiment Analysis Time Series
+* Novel Peak Detection Algorithms customized for NLP Sentiment Analysis Time Series
+* Flexible Human-in-the-Loop Control and Analysis of the entire end-to-end process
+
+Sentiment Arcs is designed to bring the most sophisticated state-of-the-art sentiment analysis models 
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
