@@ -96,7 +96,11 @@
 
 Welcome!
 
-SentimentArcs is a methodlogy and software framework for analyzing narrative in text. Virtually all long text contains narrative elements...(TODO: Insert excerpts from Paper Abstract/Intro Sections here).
+SentimentArcs is a methodlogy and software framework for analyzing narrative in text using Diachronic Sentiment Analysis. Virtually all long text contains narrative elements and often there is a correlation with measurable sentiment changes over the course of time. SentimentArcs is the novel software framework behind Katherine Elkins upcoming University of Cambridge Elements text of analyzing literature using this technique. The core framework was introduced in the October 2021 paper by Jon Chun with the following Abstract description:
+
+<blockquote>
+SOTA Transformer and DNN short text sentiment classifiers report over 97% accuracy on narrow domains like IMDB movie reviews. Real-world performance is significantly lower because traditional models overfit benchmarks and generalize poorly to different or more open domain texts. This paper introduces SentimentArcs, a new self-supervised time series sentiment analysis methodology that addresses the two main limitations of traditional supervised sentiment analysis: limited labeled training datasets and poor generalization. A large ensemble of diverse models provides a synthetic ground truth for self-supervised learning. Novel metrics jointly optimize an exhaustive search across every possible corpus:model combination. The joint optimization over both the corpus and model solves the generalization problem. Simple visualizations exploit the temporal structure in narratives so domain experts can quickly spot trends, identify key features, and note anomalies over hundreds of arcs and millions of data points. To our knowledge, this is the first self-supervised method for time series sentiment analysis and the largest survey directly comparing real-world model performance on long-form narratives.
+</blockquote>
 
 SentimentArcs is an end-to-end pipeline to detect, extract, preprocess and analyze sentiment in any corpus of long-form texts. This includes both individual long-form texts as well as corpora compiled from individually time sequenced smaller texts like tweets or financial reports. 
 
@@ -107,14 +111,18 @@ SentimentArcs is an end-to-end pipeline to detect, extract, preprocess and analy
 Sentiment Arcs consists of a series of modules embodied in Jupyter notebooks developed to work on Google's free Colab service. These modules include:
 
 * Text preprocessing (cleaning, advanced sentence segmentation, custom stopword sets, etc)
-* Sentiment Analysis
+* An ensemble of over 3 dozen Sentiment Analysis Model including a diverse representation of major families:
+
+- Lexical
+- Heuristics
+- GOFAI Machine Learning
+- Deep Neural Networks
+- State of the Art Transformer Models
+
 * Novel Time Series Synthesis and Data Augmentation for NLP Sentiment Analysis Time Series
 * Novel Peak Detection Algorithms customized for NLP Sentiment Analysis Time Series
-* Flexible Human-in-the-Loop Control and Analysis of the entire end-to-end process
-
-Sentiment Arcs is designed to bring the most sophisticated state-of-the-art sentiment analysis models 
-
-
+* Efficient and Flexible Human-in-the-Loop to customize and tune the entire end-to-end process
+* Flexible statistical, visualzation and text cutomizations so Domain Experts can quickly identify, extract and analyze key features of time series.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
