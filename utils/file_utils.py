@@ -1,5 +1,6 @@
 import global_vars
 
+
 def get_fullpath(text_title_str, ftype='data_clean', fig_no='', first_note = '',last_note='', graph_ext='png', no_date=False):
   '''
   Given a required file_type(ftype:['data_clean','data_raw','graph']) and
@@ -113,6 +114,8 @@ def write_dict_dfs(adict, out_file='sentiments.json', out_dir=global_vars.SUBDIR
       for key in adict.keys()
   }
 
+  import json
+  
   # write to disk
   out_fullpath = f'{out_dir}{out_file}'
   print(f'Saving file to: {out_fullpath}')
@@ -131,6 +134,8 @@ def read_dict_dfs(in_file='sentiments.json', in_dir=global_vars.SUBDIR_SENTIMENT
   Given a Dictionary of DataFrames and optional output filename and output directory
   Read nested json file into Dictionary of DataFrames
   '''
+  
+  import json
 
   # read from disk
   in_fullpath = f'{in_dir}{in_file}'
