@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jon-chun/sentiment_arcs">
-    <img src="images/sentiment_arcs_logo.png" alt="Sentiment Arcs Logo" width="80" height="80">
+    <img src="images/sentiment_arcs_logo.jpg" alt="Sentiment Arcs Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Sentiment Arcs - Emotion in Texts</h3>
