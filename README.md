@@ -94,6 +94,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+<div align="center">
+  <a href="https://github.com/jon-chun/sentiment_arcs">
+    <img src="images/graph_sentiment_arcs_ensemble_vwoolf_ttl.png" alt="Sentiment Arcs Ensemble of To The Lighthouse by Virginia Woolf" width="2048" height="1018">
+  </a>
+  <a href="https://github.com/jon-chun/sentiment_arcs">
+    <img src="graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs Smoothed Peaks To The Lighthouse by Virginia Woolf" width="2048" height="1018">
+  </a>
+<div>
+
 Welcome!
 
 SentimentArcs is a methodlogy and software framework for analyzing narrative in text using Diachronic Sentiment Analysis. Virtually all long text contains narrative elements and often there is a correlation with measurable sentiment changes over the course of time. SentimentArcs is the novel software framework behind Katherine Elkins upcoming University of Cambridge Elements text of analyzing literature using this technique. The core framework was introduced in the October 2021 paper by Jon Chun with the following Abstract description:
