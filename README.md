@@ -99,13 +99,20 @@
     <img src="images/graph_sentiment_arcs_ensemble_vwoolf_ttl.png" alt="Sentiment Arcs Ensemble of To The Lighthouse by Virginia Woolf"> 
     <!--- width="2048" height="1018"> --->
   </a>
+  <br>
   <a href="https://github.com/jon-chun/sentiment_arcs">
-    <img src="images/graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs Smoothed Peaks To The Lighthouse by Virginia Woolf"> 
+    <img src="images/graph_sentiment_arcs_smoothed_vwoolf_ttl.png" alt="Sentiment Arcs SMA Smoothed Peaks To The Lighthouse by Virginia Woolf"> 
     <!---  width="2048" height="1018"> --->
   </a>
+  <br>
+  <a href="https://github.com/jon-chun/sentiment_arcs">
+    <img src="images/graph_sentiment_arc_lowess_mproust_guermanteswayg" alt="Sentiment Arcs LOWESS Smoothed Peaks Guermantes Way by Marcel Proust"> 
+    <!---  width="2048" height="1018"> --->
+  </a>
+  <br>
 </div>
 
-Welcome!
+<b>Welcome!</b>
 
 SentimentArcs is a novel methodology and software framework for analyzing narrative in long texts or sequenced collections of shorter texts using Diachronic Sentiment Analysis. It works by segmenting any corpus of long text into semantic units (e.g. sentences, tweets, financial outlooks), applying an ensemble of over three dozen NLP sentiment analysis models, performing time series analysis and extracting key features like peaks, valleys and other shapes reflecting interesting ground truth realities for domain experts (e.g. literary experts, social media analytics, financial analyst).
 
