@@ -32,7 +32,7 @@
 --->
 
 <h2>This repo has been superceeded by jon-chun/sentimentarcs_notebooks</h2>
-Please go to the new repo <a href="https://github.com/jon-chun/sentimentarcs_notebooks">sentimentarcs_notebooks</a>
+<h3>Please go to the new repo <a href="https://github.com/jon-chun/sentimentarcs_notebooks">sentimentarcs_notebooks</a> for current working code</h3>
 
 <!-- PROJECT LOGO -->
 <br />
