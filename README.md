@@ -31,6 +31,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 --->
 
+<h2>This repo has been superceeded by jon-chun/sentimentarcs_notebooks</h2>
+Please go to the new repo <a href="https://github.com/jon-chun/sentimentarcs_notebooks">sentimentarcs_notebooks</a>
 
 <!-- PROJECT LOGO -->
 <br />
